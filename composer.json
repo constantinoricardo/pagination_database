@@ -1,0 +1,14 @@
+{
+  "name": "constantinoricardo/pagination-database",
+  "description": "Módulo de paginação",
+  "authors": [
+    {
+      "name": "Ricardo Constantino",
+      "email": "ricardoconstantino30@gmail.com"
+    }
+  ],
+
+  "require": {
+    "php": ">= 7.0"
+  }
+}
